@@ -1,7 +1,7 @@
 this is a project about object detection and object classification in real time.
 
 	the real time classification steps is very simple:
-1-train your classification model.
+1-train your classification model.                                                          
 2-capture the frames from a video or from web cam and feed it to the model using opencv python library.
 3-use open cv to add text to the frame with it's label and it's accuracy
 
