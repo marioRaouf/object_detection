@@ -14,3 +14,5 @@ this is a project about object detection and object classification in real time.
 
 	the real time and video deteciton:
 work the same way as detection in one image but the only difference is we are not loading the image from a file but read the frame from a video or web cam.
+
+you can find the original tutorials and download the weights and cfg files from : https://pysource.com/2019/07/08/yolo-real-time-detection-on-cpu/
